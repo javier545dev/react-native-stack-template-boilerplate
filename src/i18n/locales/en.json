@@ -1,0 +1,28 @@
+{
+  "common": {
+    "spanish": "Español",
+    "english": "English"
+  },
+  "Header": {
+    "back": "Back"
+  },
+  "Homepage": {
+    "welcome": "Thank you for using the React Native Starter App\n😍 😘 🙏🏻",
+    "releasedWithLove": "Created for Javier with ❤️ for you",
+    "gotoUsersList": "Go to Users List",
+    "openModal": "Open Modal",
+    "createNewUser": " Create new user",
+    "ModifyUser": "Modify user",
+    "DeleteUser": "Delete user"
+  },
+  "UsersList": {
+    "UsersList": "Users List"
+  },
+  "ModalPage": {
+    "PageName": "Modal Page",
+    "thisIsAModal": "This is a modal!"
+  },
+  "UserDetails": {
+    "UserDetails": "User Details"
+  }
+}

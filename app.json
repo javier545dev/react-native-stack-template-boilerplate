@@ -1,0 +1,18 @@
+{
+  "name": "pruebaExtrama",
+  "displayName": "pruebaExtrama",
+  "environments": {
+    "development": {
+      "API_URL": "https://reqres.in/api",
+      "ENV": "development"
+    },
+    "staging": {
+      "API_URL": "https://reqres.in/api",
+      "ENV": "staging"
+    },
+    "production": {
+      "API_URL": "https://reqres.in/api",
+      "ENV": "production"
+    }
+  }
+}
